@@ -23,5 +23,6 @@ section#colour-display #new-colour-button {
   padding: 5px;
   display: block;
   margin: 2% auto;
+  background-color:transparent;
   
 } 
